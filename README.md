@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TeniDevs
+- 👀 I’m interested in C#, PowerApps, Unity, SPFx, Crossplatform App Development, Web Apps, JS
+- 🌱 I’m currently learning Full Stack Dev using Node & React 
+- 📫 How to reach me: Email me at tvoges@proton.me
